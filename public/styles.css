@@ -1,0 +1,25 @@
+body{
+  background: lavender;
+  font-size: 30px;
+}
+h3{
+  margin-top: 40px;
+}
+
+.message {
+  word-spacing: 15px;
+}
+
+.userGuess {
+  color: blue;
+  font-weight: bold;
+}
+
+.coinResult {
+  color: red;
+  font-weight: bold;
+}
+
+.winOrLose {
+  text-decoration: underline;
+}
