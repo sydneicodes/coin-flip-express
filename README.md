@@ -1,4 +1,5 @@
-![21 Savage](public/21savage.jpg)
+![express-coin-flip-banner](https://user-images.githubusercontent.com/99233457/201453358-8441b671-47de-406a-8c06-7cf4af502ff0.png)
+
 
 ## Installation
 
